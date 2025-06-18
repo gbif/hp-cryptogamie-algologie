@@ -1,4 +1,6 @@
- - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishing_org=382dc140-b75c-4b3e-989e-8bbd2e4f5cc0&limit=0">9,000,000</span>
+stats:
+  features:
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishing_org=382dc140-b75c-4b3e-989e-8bbd2e4f5cc0&limit=0">9,000,000</span>
       description: Occurrences
       background: /assets/images/icons/occurrences.png
       href: /occurrence/search/?view=table
