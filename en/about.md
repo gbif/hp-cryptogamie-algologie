@@ -16,7 +16,7 @@ Cryptogamie, Algologie continues as from 1980 the [Revue algologique](https://ww
 
 ### Journal data
 
-From 2018, Geodiversitas has committed to ensuring the findability, accessibility, interoperability, and reusability (FAIR principles) of its data.
+From 2018, Cryptogamie, Algologie has committed to ensuring the findability, accessibility, interoperability, and reusability (FAIR principles) of its data.
 
 In 2023, the journal partnered with Swiss-based organization [Plazi](https://plazi.org/) to retroconvert the metadata of articles published in PDF format, along with the taxonomic treatments and material citations they contain, into XML Taxpub format. To ensure adequate granularity, the journal adopted a new standard for formatting the material ([Chester et al. 2019](https://doi.org/10.5852/ejt.2019.586)). The articles, as well as the associated treatments, figures, and metadata, are deposited in the [Biodiversity Literature Repository](https://zenodo.org/communities/biosyslit) (Zenodo) to be disseminated across various relevant data infrastructures, such as [GBIF](https://www.gbif.org/) and [Catalogue of Life](https://www.catalogueoflife.org/), and the shared [ChecklistBank](https://www.checklistbank.org/).
 
