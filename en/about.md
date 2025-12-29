@@ -3,7 +3,7 @@ permalink: about
 lang-ref: about
 title: About
 background: /assets/images/placeholders/P6190244.jpg
-imageLicense:
+imageLicense: _Chondria scintillans_ Feldmann-Mazoyer. Photo L. Le Gall.
 height: 70vh
 ---
 [Cryptogamie, Algologie](https://sciencepress.mnhn.fr/en/periodiques/algologie) is a fully refereed, international, electronic and diamond open access journal in systematics as well as ecology and evolution of any kind of algae (including Cyanobacteria).
