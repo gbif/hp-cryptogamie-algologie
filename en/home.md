@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Cryptogamie, Algologie
 description: Browse data extracted from our publications
-background: /assets/images/placeholders/P6220458.jpg
+background: /assets/images/placeholders/P6190244.jpg
 imageLicense:
 height: 90vh
 cta:
