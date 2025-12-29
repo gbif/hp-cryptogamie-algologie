@@ -2,7 +2,7 @@
 permalink: about
 lang-ref: about
 title: About
-background: /assets/images/placeholders/closeup.png
+background: /assets/images/placeholders/P6190244.jpg
 imageLicense:
 height: 70vh
 ---
