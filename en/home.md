@@ -4,7 +4,7 @@ layout: home
 title: Cryptogamie, Algologie
 description: Browse data extracted from our publications
 background: /assets/images/placeholders/P6190244.jpg
-imageLicense:
+imageLicense: _Chondria scintillans_ Feldmann-Mazoyer. Photo L. Le Gall.
 height: 90vh
 cta:
   - text: Material citations
